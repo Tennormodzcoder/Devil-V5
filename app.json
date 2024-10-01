@@ -1,7 +1,7 @@
 {
   "name": "Devil-v5-BUG",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Samue-l1/Classic-V4",
+  "repository": "https://github.com/Tennormodzcoder/Devil-V5",
   "logo": "https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
   "env": {
